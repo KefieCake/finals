@@ -9,11 +9,11 @@
                 <div class="info-text">
                     <h1>
                     <p class="animate-text-1">Персональный сайт,</p>
-                    <p class="text-2">Андрея Кузнецова</p>
+                    <p class="text-2">Кирилла Шоркина</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                   Добро пожаловать на сайт с информацией обо мне. Здесь я расскажу вам о моих увлечениях и моём времяпрепровождении.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Узнать обо мне</a><div class="arrow">→</div>
