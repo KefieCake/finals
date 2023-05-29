@@ -1,5 +1,5 @@
 <h1>Обо мне</h1>
-<img class="photo" src="/img/photo.jpg" alt="photo" width="200" />
+<img class="photo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meme-arsenal.com%2Fcreate%2Fchose%3Ftag%3D%25D1%2587%25D0%25B5%25D1%2580%25D0%25B5%25D0%25BF%2520%25D0%25B2&psig=AOvVaw3oqxzk3NUEf0tf9poKmx9b&ust=1685448383748000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCICh0tO-mv8CFQAAAAAdAAAAABAD" alt="photo" width="200" />
 <p>
 	Привет! Меня зовут Кирилл Шоркин, и я рад приветствовать вас на своей
 	странице. Я живу в Электростали, Россия, и я старшеклассник в местной школе.
