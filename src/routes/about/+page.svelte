@@ -1,5 +1,5 @@
 <h1>Обо мне</h1>
-<img class="photo" src="routes/about/skelet.jpg" alt="photo" width="200" />
+<img class="photo" src="./img/photo.jpg" alt="photo" width="200" />
 <p>
 	Привет! Меня зовут Кирилл Шоркин, и я рад приветствовать вас на своей
 	странице. Я живу в Электростали, Россия, и я старшеклассник в местной школе.
